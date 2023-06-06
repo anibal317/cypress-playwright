@@ -30,5 +30,5 @@ Install my-project with npm
   cd my-project
 ```
     
-![Logo](https://drive.google.com/file/d/1-1ZvaJ5DpljhXmeRBxzXj-9usYtlsRTX/view?usp=drive_link)
+![Logo](https://drive.google.com/drive/folders/1g87iGFIhb8OR8Ofr5emYY028h-vmeO08?usp=sharing)
 
