@@ -7,14 +7,13 @@ Proyecto realizado para la practica y aprendizaje de las herramientas Cypress y 
 ## Programas necesarios
 <details><summary>Programas</summary> 
 <p> 
-
     - Node JS
     - VS Code
 </p>
 </details>
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@jorgeanibalsardon](https://github.com/anibal317)
 
 
 ## Documentation
@@ -22,9 +21,14 @@ Proyecto realizado para la practica y aprendizaje de las herramientas Cypress y 
 [Documentation](https://linktodocumentation)
 
 
-## Roadmap
+## Installation
 
-- Additional browser support
+Install my-project with npm
 
-- Add more integrations
+```bash
+  npm install my-project
+  cd my-project
+```
+    
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
