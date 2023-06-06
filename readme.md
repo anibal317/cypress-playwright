@@ -30,5 +30,5 @@ Install my-project with npm
   cd my-project
 ```
     
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://www.perfecto.io/sites/default/files/image/2022-09/social-blog-cypress-vs-playwright.jpg)
 
